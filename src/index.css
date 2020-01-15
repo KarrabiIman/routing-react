@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+/* @Iman: copy/paste from pro-react book */
+body {
+  margin: 0;
+  font: 16px/1 sans-serif;
+  }
+  menu ul{
+  margin: 0;
+  padding: 0;
+  }
+  menu li {
+  display: inline-block;
+  padding: 5px;
+  }
+  a.active {
+  color: #444;
+  font-weight: bold;
+  text-decoration: none;
+  }
+  header {
+  padding: 10px;
+  background-color: #333;
+  color: #ccc;
+  font-size: 20px;
+  font-weight: bold;
+  }
+  menu {
+  background-color: #ccc;
+  padding: 5px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  }
